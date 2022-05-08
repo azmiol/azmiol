@@ -8,7 +8,7 @@ import           Hakyll
 
 config :: Configuration
 config = defaultConfiguration
-  { destinationDirectory = "blog"
+  { destinationDirectory = "docs"
   }
 
 main :: IO ()
